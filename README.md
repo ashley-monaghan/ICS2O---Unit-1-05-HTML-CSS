@@ -5,4 +5,3 @@
 [![Run on Repl.it](https://repl.it/badge/github/ashley-monaghan/ICS2O---Unit-1-05-HTML-CSS)](https://repl.it/github/ashley-monaghan/ICS2O---Unit-1-05-HTML-CSS)
 
 This site can be found at: [https://ashley-monaghan.github.io/ICS2O---Unit-1-05-HTML-CSS](https://ashley-monaghan.github.io/ICS2O---Unit-1-05-HTML-CSS)
-
