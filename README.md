@@ -4,4 +4,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/ashley-monaghan/ICS2OR-Unit-1-05-html)](https://repl.it/github/ashley-monaghan/ICS2OR-Unit-1-05-html)
 
-This site can be found at: [https://<OWNER>.github.io/<REPOSITORY>](https://<OWNER>.github.io/<REPOSITORY>)
+This site can be found at: [https://ashley-monaghan.github.io/ICS2O---Unit-1-05-HTML-CSS](https://ashley-monaghan.github.io/ICS2O---Unit-1-05-HTML-CSS)
